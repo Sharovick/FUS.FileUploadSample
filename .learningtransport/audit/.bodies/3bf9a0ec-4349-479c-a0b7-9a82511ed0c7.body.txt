@@ -1,0 +1,1 @@
+<?xml version="1.0"?><SendFileToValidateCommand xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://tempuri.net/FUS.File.Messages.SagaMessages.FileValidation"><TrackingId>660cb207-bd23-4f1f-9551-947d3a859564</TrackingId><File><Type>GdprAnexOneAgreement</Type><FilePath>string</FilePath></File></SendFileToValidateCommand>

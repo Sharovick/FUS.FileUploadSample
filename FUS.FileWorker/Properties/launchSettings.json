@@ -1,0 +1,10 @@
+﻿{
+  "profiles": {
+    "FUS.File.Worker": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}

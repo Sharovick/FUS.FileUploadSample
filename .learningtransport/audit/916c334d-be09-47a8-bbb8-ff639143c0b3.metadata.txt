@@ -1,0 +1,23 @@
+{
+  "NServiceBus.MessageId": "e8f65e2e-59ec-4d19-aa5c-ae9d011a3c29",
+  "NServiceBus.MessageIntent": "Send",
+  "NServiceBus.RelatedTo": "cca7314d-c57b-41c0-9aee-ae9d011a3c23",
+  "NServiceBus.ConversationId": "c11a153d-2b64-4ede-a284-ae9d011a3c02",
+  "NServiceBus.CorrelationId": "4d2c8e4b-6111-4fe2-91a2-ae9d011a3c01",
+  "NServiceBus.OriginatingSagaId": "9f4cac4f-d303-8cc4-3acb-711a7f1075d8",
+  "NServiceBus.OriginatingSagaType": "FUS.File.Worker.Sagas.AddFilesSaga, FUS.File.Worker, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "NServiceBus.ReplyToAddress": "Fus.File.Worker",
+  "NServiceBus.OriginatingMachine": "MDMOB40480",
+  "NServiceBus.OriginatingEndpoint": "Fus.File.Worker",
+  "$.diagnostics.originating.hostid": "bc9fa4efbced1b8c6d472b738baba199",
+  "NServiceBus.ContentType": "text\/xml",
+  "NServiceBus.EnclosedMessageTypes": "FUS.File.Messages.SagaMessages.CustomerValidation.SendCustomerToValidateCommand, FUS.File.Messages, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "NServiceBus.Version": "7.7.3",
+  "NServiceBus.TimeSent": "2022-05-22 17:07:35:174016 Z",
+  "NServiceBus.ProcessingStarted": "2022-05-22 17:07:35:183027 Z",
+  "NServiceBus.ProcessingEnded": "2022-05-22 17:07:35:186097 Z",
+  "$.diagnostics.hostid": "bc9fa4efbced1b8c6d472b738baba199",
+  "$.diagnostics.hostdisplayname": "MDMOB40480",
+  "NServiceBus.ProcessingMachine": "MDMOB40480",
+  "NServiceBus.ProcessingEndpoint": "Fus.File.Worker"
+}

@@ -1,0 +1,2 @@
+<?xml version="1.0"?><SendMessageToValidateCommand xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://tempuri.net/FUS.File.Messages.SagaMessages.MessageValidation"><TrackingId>e43ea8bf-5826-4663-b250-fc9d3f2aeb9a</TrackingId><IsUserValid>false</IsUserValid><IsCustomerValid>false</IsCustomerValid><Files><Document><Type>PassportScan</Type><FilePath>string</FilePath></Document></Files><InvalidFiles>
+</InvalidFiles></SendMessageToValidateCommand>

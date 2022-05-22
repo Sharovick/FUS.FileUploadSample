@@ -1,0 +1,1 @@
+<?xml version="1.0"?><SendCustomerToValidateCommand xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://tempuri.net/FUS.File.Messages.SagaMessages.CustomerValidation"><TrackingId>e43ea8bf-5826-4663-b250-fc9d3f2aeb9a</TrackingId><CustomerId>2</CustomerId></SendCustomerToValidateCommand>

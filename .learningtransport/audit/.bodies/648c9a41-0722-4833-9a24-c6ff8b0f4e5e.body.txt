@@ -1,0 +1,1 @@
+<?xml version="1.0"?><MessageValidatedEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://tempuri.net/FUS.File.Messages.SagaMessages.MessageValidation"><TrackingId>3a0811e5-093f-4268-a76c-7ceb7832932b</TrackingId><IsValid>true</IsValid><Error></Error></MessageValidatedEvent>

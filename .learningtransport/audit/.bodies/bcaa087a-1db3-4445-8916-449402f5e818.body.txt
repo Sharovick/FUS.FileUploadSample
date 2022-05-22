@@ -1,0 +1,1 @@
+<?xml version="1.0"?><MessageValidatedEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://tempuri.net/FUS.File.Messages.SagaMessages.MessageValidation"><TrackingId>f850dc09-f827-4e2a-ab74-0569e6b0fab2</TrackingId><IsValid>false</IsValid><Error> There is not enougth files in list</Error></MessageValidatedEvent>
