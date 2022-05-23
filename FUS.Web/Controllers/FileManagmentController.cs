@@ -25,7 +25,6 @@ namespace FUS.FileUploadSample.Controllers
 
         [HttpPost("{userId}/{customerId}")]
         [ProducesResponseType(StatusCodes.Status200OK)]
-        [ProducesResponseType(StatusCodes.Status201Created)]
         [ProducesResponseType(StatusCodes.Status400BadRequest)]
         public async Task<IActionResult> PostFile(int userId, int customerId, [FromBody] IEnumerable<Document> files)
         {
@@ -42,13 +41,6 @@ namespace FUS.FileUploadSample.Controllers
                     Files = files
                 };
                 await _messageSession.Send(fusSendFileCommand);
-                // Check User on existance
-                // Check User on permissions
-
-                // Check customer on existance
-                // check customer on files recieved
-
-                // Check files on existance (duplication)
 
             } catch (Exception e)
             {
